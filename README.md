@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Shashhx
-- 👀 I’m interested in python,SQL,BigData.
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to work with Research Paper , Project works
+- 👀 I’m interested in Data science, Data Analytics.
 - 📫 Email - shashankmishr71@gmail.com
 
 <!---
